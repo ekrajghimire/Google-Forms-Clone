@@ -1,1 +1,2 @@
-# Google-Forms-Clone using Django and Mongodb
+# Django-Workshop
+Resource Material for Django Workshop
